@@ -1,0 +1,10 @@
+[mod]
+title: Eternal Conflict Beta Build
+description: This is the Beta Build version that is available to the public. Redistribution will be met with extreme reputation drops and MJRAHOLE chokeslamming you afterward. Produced by the Mod Republic.
+
+tags: units, maps
+
+#[music]
+#sourceFolder: music/
+
+#whenUsingUnitsFromThisMod_playExclusively: true
